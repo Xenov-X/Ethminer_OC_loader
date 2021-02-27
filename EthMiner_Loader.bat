@@ -16,8 +16,8 @@ IF ERRORLEVEL 1 (GOTO :StartScripts) ELSE (ECHO "%MyProcess%" is running)
 GOTO :B 
 
 :StartScripts 
-::: //-- Put in the full path to the batch scripts to call
-::: //-- Be sure the security context this process runs as has access to execute the below called batch scripts
+::: 
+::: 
 
 echo Loading OC settings	-	%time% %date%
 taskkill /f /im MSIAfterburner.exe >nul 2>&1
