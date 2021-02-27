@@ -8,9 +8,13 @@ Needs to be run as admin to stop  UAC prompts for overclocking
 
 ## How to use
 Initial setup - Edit the .bat file to include the appropriate Ethminer arguments
+
 Initial setup - Edit the .bat file variables (at the top) to point to Ethminer & MSI afterburner
+
 Initial setup - Create shortcut, edit it's properties to run as admin
+
 Initial setup - Set standard OC profile as profile 4
+
 Initial setup - Set mining OC profile as profile 5
 
 
